@@ -1,0 +1,19 @@
+Git & GitHub commands
+
+- git clone RepURL
+
+- git status
+
+- git add filename
+  git add -A %% add all files in directory
+
+- git commit -m "message"
+  git commit
+	{
+
+	}  
+	:wq
+
+- git push
+
+- git pull
