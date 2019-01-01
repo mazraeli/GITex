@@ -17,5 +17,3 @@ Git & GitHub commands
 - git push
 
 - git pull
-
-try to use git branch, pull request and merge utility
