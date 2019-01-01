@@ -15,5 +15,5 @@ Git & GitHub commands
 	:wq
 
 - git push
-- second code change
+
 - git pull
