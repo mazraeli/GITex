@@ -1,0 +1,43 @@
+**************************************************************************************
+-------------------------------ـــــــــــــــــ-------------------------------
+-------------------------------			-------------------------------	
+				   commands
+-------------------------------ـــــــــــــــــ-------------------------------
+-------------------------------			-------------------------------
+**************************************************************************************
+cd		 	change directory
+**************************************************************************************
+pwd			current directory
+**************************************************************************************
+ls				list of files and folders
+	-a			show hidden files 
+	-l			all information of files
+	-lh			understandable sizes for human	
+**************************************************************************************
+du		DIR		show directory content
+	-s	DIR		show size of each file
+	-h	DIR		show understandable sizes
+**************************************************************************************
+touch		NAME		create file
+**************************************************************************************
+rm		NAME		delete file
+	-r	NAME		delete directory with all its contents
+				("-r" shows recursive deleting ability)
+**************************************************************************************
+mv		SRC	DST	move and rename file (if use "/" at the end it 
+				doesn't change file name)
+**************************************************************************************
+mkdir		NAME		make directory
+**************************************************************************************
+rmdir		NAME		delete empty directory
+**************************************************************************************
+cp 		SRC	DST	copy and rename file (if use "/" at the end it 
+				doesn't change file name)
+	-r	SRC	DST	copy and rename directory
+				("-r" shows recursive deleting ability)
+	-ra	SRC	DST	for maintain accessibility of directory
+				(default copy doesn't maintain)
+**************************************************************************************
+
+
+
